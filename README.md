@@ -23,9 +23,13 @@ Clone the Repository: Start by cloning this repository to your local machine usi
 The repository has the following structure:
 
 ├── names/
+
 │   └── <filename>.txt
+
 ├── results/
+
 ├── sorter.py
+
 └── README.md
 
 **names/:** This directory contains the input text files with the names to be sorted.
