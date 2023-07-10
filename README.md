@@ -33,8 +33,11 @@ The repository has the following structure:
 └── README.md
 
 **names/:** This directory contains the input text files with the names to be sorted.
+
 **results/:** This directory will store the output files with the sorted names.
+
 **merge_sort.py:** The Python script that implements the merge sort algorithm.
+
 **README.md:** The README file you are currently reading.
 
 # Contributing
